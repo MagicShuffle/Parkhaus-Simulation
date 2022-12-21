@@ -69,4 +69,4 @@ while spielaktiv:
 pygame.quit()
 quit()
 
- #asdfadsfadsfsadfasdddddddddddddddd
+ #asdfadsfadsfsadfasddddddddddddddddsdf
